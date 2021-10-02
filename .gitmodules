@@ -1,3 +1,0 @@
-[submodule ".\\submodtestsub\\"]
-	path = .\\submodtestsub\\
-	url = https://github.com/sfosterdw/submoduletestsub.git
